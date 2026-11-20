@@ -30,6 +30,8 @@ If there are no errors, it simply replies `✅ No errors found.`
 ---
 
 ## ⚙️ How it works
+![Demo](images/demo.png)
+
 
 ```
  You (Telegram)            Your machine                       Cloud
