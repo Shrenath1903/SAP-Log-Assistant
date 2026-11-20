@@ -3,14 +3,6 @@ An AI-powered Telegram assistant that investigates SAP CAPM Cloud Foundry logs, 
 
 > Ask your Telegram bot for **"analysis"** and get an AI-powered root-cause report of your SAP CAP (CAPM) app's Cloud Foundry logs, right on your phone.
 
-<p align="center">
-  <img src="images/telegram-output.jpeg" alt="CAPM Telegram Log Analyzer Demo" width="200" height ="500">
-</p>
-
-<p align="center">
-  <em>AI-generated production log analysis delivered instantly through Telegram.</em>
-</p>
-
 ---
 
 ## 📌 Purpose
@@ -351,6 +343,14 @@ TG_CHAT_1=
 ```
 
 ---
+
+<p align="center">
+  <img src="images/telegram-output.jpeg" alt="CAPM Telegram Log Analyzer Demo" width="200" height ="500">
+</p>
+
+<p align="center">
+  <em>AI-generated production log analysis delivered instantly through Telegram.</em>
+</p>
 
 ## 📄 License
 
